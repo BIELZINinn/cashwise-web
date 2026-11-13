@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/web--l0bnnk-.js","assets/index-2mUebFG8.js","assets/rolldown-runtime-XKyaHtl9.js","assets/motion-C7jh7nlS.js","assets/react-DZdnx-Yp.js","assets/index-pcTDo0km.css"])))=>i.map(i=>d[i]);
+import{i as e,t}from"./index-2mUebFG8.js";var n=e(`PrivacyScreen`,{web:()=>t(()=>import(`./web--l0bnnk-.js`).then(e=>new e.PrivacyScreenWeb),__vite__mapDeps([0,1,2,3,4,5]))});export{n as PrivacyScreen};
