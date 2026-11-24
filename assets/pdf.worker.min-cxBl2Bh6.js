@@ -1,1 +1,0 @@
-var e=`/Program%20Files/Git/cashwise-web/assets/pdf.worker.min-CIqJB0yW.mjs`;export{e as default};
